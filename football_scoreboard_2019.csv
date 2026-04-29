@@ -108,13 +108,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-08-30,Ladue Horton Watkins,13,Ritenour,0
 2019-08-30,Rockhurst,16,Rock Bridge,14
 2019-08-30,Glendale,24,Rolla,32
-2019-08-30,Troy Buchanan,28,Roosevelt with Cleveland NJROTC,24
+2019-08-30,Troy Buchanan,28,Roosevelt,24
 2019-08-30,Belton,13,Ruskin,18
 2019-08-30,Westran,40,Salisbury,15
 2019-08-30,Marceline,22,Scotland County,12
 2019-08-30,Grandview (Hillsboro),0,Scott City,49
 2019-08-30,Springfield Catholic,41,Seneca,26
-2019-08-30,Vashon,16,Sikeston,24
+2019-08-30,Vashon with Transportation and Law,16,Sikeston,24
 2019-08-30,Forsyth,8,Skyline,49
 2019-08-30,Santa Fe,0,Slater,41
 2019-08-30,East Buchanan,18,South Harrison,22
@@ -122,13 +122,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-08-30,St. Dominic,14,St. Charles West,44
 2019-08-30,Pacific,0,St. Francis Borgia,38
 2019-08-30,Salem,32,St. James,6
+2019-08-30,Putnam County,21,St. Joseph Christian with Northland Christian,0
 2019-08-30,Westminster Christian Academy,15,St. Mary's South Side,26
 2019-08-30,Tipton,41,St. Paul Lutheran (Concordia),12
 2019-08-30,Windsor (Imperial),28,St. Pius X (Festus),6
 2019-08-30,Valle Catholic,36,St. Vincent,7
 2019-08-30,Truman,6,Staley,42
 2019-08-30,St. Michael the Archangel,0,Summit Christian Academy,41
-2019-08-30,Windsor,38,Sweet Springs with Malta Bend,30
+2019-08-30,Windsor,38,Sweet Springs,30
 2019-08-30,Lathrop,42,Trenton,14
 2019-08-30,Farmington,23,Union,13
 2019-08-30,Principia,21,Van-Far with Community,0
@@ -151,6 +152,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-08-31,Mehlville,10,Lindbergh,17
 2019-08-31,Trinity Catholic,6,Lutheran North,25
 2019-08-31,Carnahan,14,Normandy Collaborative,44
+2019-08-31,John Burroughs,42,Soldan International Studies with Sumner,14
 2019-09-01,Parkway Central,14,Rockwood Summit,47
 2019-09-02,Lutheran South,13,Affton,49
 2019-09-02,Perryville,14,DeSoto,7
@@ -183,6 +185,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-06,Rock Bridge,7,De Smet Jesuit,50
 2019-09-06,Pierce City,44,Diamond,0
 2019-09-06,Wright City,0,Duchesne,52
+2019-09-06,St. Joseph Christian with Northland Christian,7,East Buchanan,43
 2019-09-06,Central (New Madrid County),46,East Prairie,6
 2019-09-06,Owensville,36,Eldon,30
 2019-09-06,North County,6,Farmington,48
@@ -282,7 +285,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-06,Cassville,49,Springfield Catholic,21
 2019-09-06,Potosi,6,St. Clair,23
 2019-09-06,Orchard Farm,7,St. Dominic,48
-2019-09-06,Sweet Springs with Malta Bend,54,St. Paul Lutheran (Concordia),6
+2019-09-06,Sweet Springs,54,St. Paul Lutheran (Concordia),6
 2019-09-06,Bayless,12,St. Pius X (Festus),49
 2019-09-06,St. Michael the Archangel,0,St. Pius X (Kansas City),14
 2019-09-06,Valle Catholic,41,Ste. Genevieve,6
@@ -294,7 +297,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-06,Warrenton,12,Troy Buchanan,48
 2019-09-06,Liberty North,49,Truman,3
 2019-09-06,St. Francis Borgia,12,Union,14
-2019-09-06,Vashon,20,Veritas Christian Academy,48
+2019-09-06,Vashon with Transportation and Law,20,Veritas Christian Academy,48
 2019-09-06,Buffalo,56,Versailles,26
 2019-09-06,Kickapoo,7,Waynesville,30
 2019-09-06,Hazelwood Central,28,Webster Groves,14
@@ -306,7 +309,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-07,Brentwood,0,John Burroughs,42
 2019-09-07,DeSoto,14,Mehlville,35
 2019-09-07,Principia,0,Priory,31
-2019-09-07,Jefferson (Festus),13,Roosevelt with Cleveland NJROTC,40
+2019-09-07,Jefferson (Festus),13,Roosevelt,40
+2019-09-07,Hazelwood West,57,Soldan International Studies with Sumner,6
 2019-09-07,Clayton,13,University City,25
 2019-09-07,Joplin,35,Webb City,28
 2019-09-12,Christian Brothers College,56,Chaminade College Prep,26
@@ -440,7 +444,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-13,Skyline,58,Stockton with Sheldon,8
 2019-09-13,Union,35,Sullivan,21
 2019-09-13,Clinton,0,Summit Christian Academy,59
-2019-09-13,Concordia,17,Sweet Springs with Malta Bend,54
+2019-09-13,Concordia,17,Sweet Springs,54
 2019-09-13,Liberty (Mountain View),20,Thayer,47
 2019-09-13,Gallatin,24,Trenton,0
 2019-09-13,Liberty,33,Truman,13
@@ -460,7 +464,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-14,Lindbergh,41,Hazelwood East,8
 2019-09-14,Parkway South,6,McCluer North,58
 2019-09-14,Lutheran South,12,MICDS,51
-2019-09-14,Carnahan,0,Roosevelt with Cleveland NJROTC,70
+2019-09-14,Carnahan,0,Roosevelt,70
+2019-09-14,Vashon with Transportation and Law,12,Soldan International Studies with Sumner,28
 2019-09-14,Normandy Collaborative,30,St. Mary's South Side,66
 2019-09-14,Seckman,29,University City,15
 2019-09-14,John Burroughs,9,Westminster Christian Academy,8
@@ -611,11 +616,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-21,Hazelwood Central,19,Hazelwood West,26
 2019-09-21,Southeast,14,Hogan Prep Academy Charter,26
 2019-09-21,McCluer North,28,McCluer,6
-2019-09-21,Vashon,46,Miller Career Academy,45
+2019-09-21,Vashon with Transportation and Law,46,Miller Career Academy,45
 2019-09-21,MICDS,37,Priory,38
 2019-09-21,Hazelwood East,40,Riverview Gardens,14
-2019-09-21,Bayless,0,Roosevelt with Cleveland NJROTC,46
-2019-09-21,Sweet Springs with Malta Bend,52,University Academy Charter,0
+2019-09-21,Bayless,0,Roosevelt,46
+2019-09-21,Gateway,38,Soldan International Studies with Sumner,12
+2019-09-21,Sweet Springs,52,University Academy Charter,0
 2019-09-21,Affton,27,University City,7
 2019-09-21,Center,27,Van Horn,20
 2019-09-21,Lutheran North,63,Westminster Christian Academy,14
@@ -670,7 +676,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-27,Ft. Zumwalt South,0,Ft. Zumwalt North,63
 2019-09-27,Marshall,48,Fulton,8
 2019-09-27,Polo,0,Gallatin,41
-2019-09-27,Vashon,20,Gateway,38
+2019-09-27,Vashon with Transportation and Law,20,Gateway,38
 2019-09-27,Winnetonka,20,Grain Valley,41
 2019-09-27,Valle Catholic,55,Grandview (Hillsboro),18
 2019-09-27,Sarcoxie,52,Greenfield,0
@@ -696,7 +702,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-27,Seneca,15,Lamar,11
 2019-09-27,West Plains,36,Lebanon,35
 2019-09-27,Willow Springs,12,Liberty (Mountain View),35
-2019-09-27,Sweet Springs with Malta Bend,12,Lincoln,49
+2019-09-27,Sweet Springs,12,Lincoln,49
 2019-09-27,St. Paul Lutheran (Concordia),14,Lone Jack with Kingsville,35
 2019-09-27,Schuyler County,50,Louisiana,20
 2019-09-27,Lutheran South,8,Lutheran North,90
@@ -778,6 +784,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-28,Hazelwood West,26,McCluer,14
 2019-09-28,Riverview Gardens,12,McCluer North,60
 2019-09-28,John Burroughs,22,MICDS,43
+2019-09-28,Soldan International Studies with Sumner,18,Miller Career Academy,26
 2019-09-28,Westminster Christian Academy,42,Priory,28
 2019-10-03,Glendale,26,Kickapoo,21
 2019-10-04,Diamond,0,Adrian,45
@@ -822,7 +829,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-04,Francis Howell Central,42,Francis Howell North,35
 2019-10-04,Washington,13,Ft. Zumwalt North,56
 2019-10-04,Ft. Zumwalt East,20,Ft. Zumwalt South,14
-2019-10-04,Roosevelt with Cleveland NJROTC,58,Gateway,20
+2019-10-04,Roosevelt,58,Gateway,20
 2019-10-04,Herculaneum,22,Grandview (Hillsboro),28
 2019-10-04,Blair Oaks,35,Hallsville,0
 2019-10-04,Fulton,20,Hannibal,69
@@ -901,18 +908,19 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-04,St. Francis Borgia,41,St. Dominic,21
 2019-10-04,Crest Ridge,53,St. Paul Lutheran (Concordia),16
 2019-10-04,Cuba,22,St. Pius X (Festus),43
+2019-10-04,St. Joseph Christian with Northland Christian,7,St. Pius X (Kansas City),48
 2019-10-04,Perryville,27,Ste. Genevieve,42
 2019-10-04,Fair Grove,27,Strafford,8
 2019-10-04,Hermann,6,Sullivan,21
 2019-10-04,University Academy Charter,6,Summit Christian Academy,63
-2019-10-04,Santa Fe,6,Sweet Springs with Malta Bend,56
+2019-10-04,Santa Fe,6,Sweet Springs,56
 2019-10-04,Liberty (Wentzville),14,Timberland,3
 2019-10-04,Lincoln,49,Tipton,0
 2019-10-04,Lutheran St. Charles,14,Trinity Catholic,34
 2019-10-04,Holt,41,Troy Buchanan,31
 2019-10-04,North Kansas City,52,Truman,18
 2019-10-04,Jefferson (Festus),13,Valle Catholic,44
-2019-10-04,Lift for Life Academy Charter,48,Vashon,0
+2019-10-04,Lift for Life Academy Charter,48,Vashon with Transportation and Law,0
 2019-10-04,SLUH,48,Vianney,28
 2019-10-04,Harrisonville,14,Warrensburg,13
 2019-10-04,Willard,21,Webb City,49
@@ -932,6 +940,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-05,Kirkwood,49,Ritenour,6
 2019-10-05,Hazelwood West,43,Riverview Gardens,8
 2019-10-05,Holt,41,Troy Buchanan,31
+2019-10-05,Soldan International Studies with Sumner,12,University City,13
 2019-10-05,Hogan Prep Academy Charter,34,Warrenton,26
 2019-10-05,Lutheran South,0,Westminster Christian Academy,35
 2019-10-10,Gateway,26,Affton,36
@@ -958,7 +967,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-11,Bolivar,49,Clinton,7
 2019-10-11,Mark Twain,14,Clopton with Elsberry,7
 2019-10-11,Lone Jack with Kingsville,10,Concordia,42
-2019-10-11,Sweet Springs with Malta Bend,22,Crest Ridge,28
+2019-10-11,Sweet Springs,22,Crest Ridge,28
 2019-10-11,Herculaneum,45,Crystal City,8
 2019-10-11,Missouri Military Academy,12,Cuba,34
 2019-10-11,Jefferson City,0,De Smet Jesuit,63
@@ -1087,11 +1096,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-12,Trinity Catholic,36,Miller Career Academy,6
 2019-10-12,Lift for Life Academy Charter,43,Principia,0
 2019-10-12,Mehlville,42,Riverview Gardens,6
-2019-10-12,Vashon,6,Roosevelt with Cleveland NJROTC,56
+2019-10-12,Vashon with Transportation and Law,6,Roosevelt,56
+2019-10-12,Carnahan,8,Soldan International Studies with Sumner,12
 2019-10-12,Archie,38,University Academy Charter,42
 2019-10-12,Lincoln College Prep,48,University City,0
 2019-10-17,Parkway Central,41,Parkway West,28
-2019-10-17,Miller Career Academy,16,Roosevelt with Cleveland NJROTC,32
+2019-10-17,Miller Career Academy,16,Roosevelt,32
 2019-10-18,Jasper,0,Adrian,41
 2019-10-18,Marshfield,40,Aurora,22
 2019-10-18,Cabool,6,Ava,39
@@ -1213,7 +1223,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-18,Pleasant Hope,6,Stockton with Sheldon,80
 2019-10-18,Forsyth,8,Strafford,38
 2019-10-18,Pembroke Hill,0,Summit Christian Academy,55
-2019-10-18,Lone Jack with Kingsville,0,Sweet Springs with Malta Bend,62
+2019-10-18,Lone Jack with Kingsville,0,Sweet Springs,62
 2019-10-18,Willow Springs,20,Thayer,34
 2019-10-18,Ft. Zumwalt North,42,Timberland,0
 2019-10-18,Polo,12,Trenton,48
@@ -1239,6 +1249,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-19,Northeast (Kansas City),6,Hogan Prep Academy Charter,50
 2019-10-19,Principia,14,John Burroughs,35
 2019-10-19,Highland,28,Knox County,22
+2019-10-19,Soldan International Studies with Sumner,0,Lift for Life Academy Charter,57
 2019-10-19,University City,26,Normandy Collaborative,12
 2019-10-19,Portageville,6,Perryville,48
 2019-10-19,Van Horn,55,University Academy Charter,24
@@ -1256,6 +1267,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-25,Midway,28,Butler,8
 2019-10-25,Salem,27,Cabool,21
 2019-10-25,Kickapoo,0,Camdenton,35
+2019-10-25,St. Joseph Christian with Northland Christian,0,Cameron,55
 2019-10-25,Joplin,48,Carl Junction,17
 2019-10-25,Central (New Madrid County),30,Caruthersville,52
 2019-10-25,Smith-Cotton,6,Center,55
@@ -1361,7 +1373,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-25,McDonald County,27,Seneca,34
 2019-10-25,Kennett,36,Sikeston,0
 2019-10-25,Strafford,27,Slater,21
-2019-10-25,Vashon,6,SLUH,51
+2019-10-25,Vashon with Transportation and Law,6,SLUH,51
 2019-10-25,Kearney,0,Smithville,34
 2019-10-25,Highland,14,South Shelby,12
 2019-10-25,Northeast (Kansas City),29,Southeast,36
@@ -1385,7 +1397,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-25,Ft. Zumwalt East,22,Warrenton,31
 2019-10-25,Skyline,64,Warsaw,66
 2019-10-25,Parkview,0,Waynesville,50
-2019-10-25,Sweet Springs with Malta Bend,48,Wellington-Napoleon,6
+2019-10-25,Sweet Springs,48,Wellington-Napoleon,6
 2019-10-25,Glendale,14,West Plains,49
 2019-10-25,Paris with Faith Walk,22,Westran,0
 2019-10-25,Branson,0,Willard,49
@@ -1398,8 +1410,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-26,Hazelwood East,6,Hazelwood West,20
 2019-10-26,Riverview Gardens,6,McCluer,52
 2019-10-26,Hazelwood Central,18,McCluer North,0
+2019-10-26,Soldan International Studies with Sumner,8,MICDS,66
 2019-10-26,St. Dominic,22,Priory,7
-2019-10-26,Bishop DuBourg with Hancock,0,Roosevelt with Cleveland NJROTC,42
+2019-10-26,Bishop DuBourg with Hancock,0,Roosevelt,42
 2019-11-01,Crystal City,0,Valle Catholic,53
 2019-11-01,Malden,18,Charleston,13
 2019-11-01,Chaffee,0,Hayti,64
@@ -1426,7 +1439,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,St. Paul Lutheran (Concordia),14,Marceline,48
 2019-11-01,Fayette,8,Carrollton,29
 2019-11-01,Salisbury,0,Slater,40
-2019-11-01,Santa Fe,20,Sweet Springs with Malta Bend,54
+2019-11-01,Santa Fe,20,Sweet Springs,54
 2019-11-01,Louisiana,0,Brentwood,41
 2019-11-01,Harrisburg,30,Paris with Faith Walk,24
 2019-11-01,Westran,7,South Callaway,55
@@ -1441,6 +1454,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,Lone Jack with Kingsville,6,Summit Christian Academy,55
 2019-11-01,St. Pius X (Kansas City),6,Knob Noster,49
 2019-11-01,Holden,3,Lafayette County,40
+2019-11-01,St. Joseph Christian with Northland Christian,0,Maryville,62
 2019-11-01,Lexington,10,Lawson,48
 2019-11-01,Trenton,13,Lathrop,62
 2019-11-01,Brookfield,22,Richmond,48
@@ -1476,7 +1490,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,Central (Kansas City),22,Cameron,51
 2019-11-01,Southeast,12,Chillicothe,61
 2019-11-01,Benton,40,Pembroke Hill,27
-2019-11-01,Vashon,0,Trinity Catholic,42
+2019-11-01,Vashon with Transportation and Law,0,Trinity Catholic,42
 2019-11-01,Winfield,22,St. Charles West,51
 2019-11-01,Mexico,40,Wright City,6
 2019-11-01,Orchard Farm,0,Lutheran St. Charles,78
@@ -1493,6 +1507,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,DeSoto,7,Festus,41
 2019-11-01,North County,6,Central (Cape Girardeau),42
 2019-11-01,Sikeston,6,Hillsboro,23
+2019-11-01,Soldan International Studies with Sumner,20,Affton,55
 2019-11-01,Riverview Gardens,0,St. Mary's South Side,46
 2019-11-01,Ruskin,7,Warrensburg,46
 2019-11-01,Harrisonville,58,Van Horn,14
@@ -1538,7 +1553,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,Lindbergh,31,Lafayette (Wildwood),7
 2019-11-02,Cuba,28,Principia,13
 2019-11-02,University Academy Charter,20,Hogan Prep Academy Charter,39
-2019-11-02,Confluence Prep Academy Charter,6,Roosevelt with Cleveland NJROTC,54
+2019-11-02,Confluence Prep Academy Charter,6,Roosevelt,54
 2019-11-02,Normandy Collaborative,0,University City,6
 2019-11-02,Jennings,8,Priory,47
 2019-11-02,Miller Career Academy,18,John Burroughs,30
@@ -1559,7 +1574,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-08,Wellington-Napoleon,12,Adrian,48
 2019-11-08,Crest Ridge,14,Windsor,42
 2019-11-08,Carrollton,12,Marceline,49
-2019-11-08,Sweet Springs with Malta Bend,44,Slater,32
+2019-11-08,Sweet Springs,44,Slater,32
 2019-11-08,Harrisburg,0,Brentwood,43
 2019-11-08,South Shelby,36,South Callaway,43
 2019-11-08,Central (New Madrid County),14,Scott City,52
@@ -1631,7 +1646,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-08,Troy Buchanan,26,Blue Springs South,21
 2019-11-08,Kirkwood,48,Joplin,69
 2019-11-08,Lindbergh,21,Marquette,31
-2019-11-09,Sullivan,33,Roosevelt with Cleveland NJROTC,40
+2019-11-09,Sullivan,33,Roosevelt,40
 2019-11-09,John Burroughs,21,Priory,28
 2019-11-09,Hazelwood East,6,McCluer,34
 2019-11-15,Hayti,6,Valle Catholic,43
@@ -1640,7 +1655,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-15,South Harrison,30,Putnam County,13
 2019-11-15,Skyline,13,Lincoln,42
 2019-11-15,Windsor,20,Adrian,19
-2019-11-15,Sweet Springs with Malta Bend,14,Marceline,23
+2019-11-15,Sweet Springs,14,Marceline,23
 2019-11-15,South Callaway,35,Brentwood,20
 2019-11-15,Caruthersville,14,Scott City,35
 2019-11-15,Lift for Life Academy Charter,0,Lutheran North,6
@@ -1676,7 +1691,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-15,Raymore-Peculiar,27,Liberty North,21
 2019-11-15,Troy Buchanan,0,Ft. Zumwalt West,27
 2019-11-15,Marquette,7,Joplin,35
-2019-11-16,St. Francis Borgia,43,Roosevelt with Cleveland NJROTC,48
+2019-11-16,St. Francis Borgia,43,Roosevelt,48
 2019-11-16,St. Mary's South Side,18,McCluer,14
 2019-11-22,Lutheran North,57,Scott City,8
 2019-11-22,St. Mary's South Side,28,Farmington,17
@@ -1692,7 +1707,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-23,Lathrop,38,Summit Christian Academy,6
 2019-11-23,Lamar,14,Ava,26
 2019-11-23,Clark County,22,Hallsville,7
-2019-11-23,Roosevelt with Cleveland NJROTC,14,Kennett,50
+2019-11-23,Roosevelt,14,Kennett,50
 2019-11-23,Savannah,31,Odessa,53
 2019-11-23,Lutheran St. Charles,0,Trinity Catholic,26
 2019-11-23,Cassville,35,Blair Oaks,28

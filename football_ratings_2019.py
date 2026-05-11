@@ -38,6 +38,20 @@ MANUAL_GAMES = [
     ("2019-10-04", "Cardinal Ritter", 46, "St. Mary's South Side", 20),
     ("2019-10-11", "Cardinal Ritter", 54, "St. Francis Borgia", 8),
 ]
+
+# ---------------------------------------------------------------------------
+# EXCLUDED GAMES (games to remove from rankings)
+# ---------------------------------------------------------------------------
+# Add any games you want to exclude from the ratings engine here.
+# Format: ("YYYY-MM-DD", "Team 1 Name", "Team 2 Name")
+# Team order does not matter — both directions are checked.
+
+EXCLUDED_GAMES = [
+    ("2019-08-30", "Bishop DuBourg with Hancock", "Jefferson (Festus)"),
+    ("2019-08-30", "Ladue Horton Watkins", "Ritenour"),
+    ("2019-11-01", "Lincoln", "Pleasant Hope"),
+    ("2019-11-01", "Duchesne", "Cardinal Ritter"),
+]
  
 HEADERS = {
     "User-Agent": (

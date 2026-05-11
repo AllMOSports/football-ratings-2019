@@ -520,7 +520,7 @@ def save_class_jsons(off_rating, def_rating, ovr_rating, league_avg,
             print(f"  Class {cls}: no teams found — skipping.")
             continue
  
-        path = f"football_ratings_2013_class{cls}.json"
+        path = f"football_ratings_2019_class{cls}.json"
         output = {
             "last_updated":   datetime.now().strftime("%B %d, %Y at %I:%M %p"),
             "league_average": round(league_avg, 2),
@@ -592,10 +592,10 @@ def save_rankings_csv(off_rating, def_rating, ovr_rating,
     ])
  
     if class_filter is None:
-        path  = "football_rankings_2013_all.csv"
+        path  = "football_rankings_2019_all.csv"
         label = "All teams"
     else:
-        path  = f"football_rankings_2013_class{class_filter}.csv"
+        path  = f"football_rankings_2019_class{class_filter}.csv"
         label = f"Class {class_filter}"
  
     df.to_csv(path, index=False)
@@ -618,7 +618,7 @@ def save_all_rankings_csvs(off_rating, def_rating, ovr_rating,
 # ---------------------------------------------------------------------------
  
 if __name__ == "__main__":
-    print("=== MSHSAA Football Ratings 2013 ===")
+    print("=== MSHSAA Football Ratings 2019 ===")
  
     print("\nLoading classifications...")
     team_to_class, team_to_district = load_classifications()

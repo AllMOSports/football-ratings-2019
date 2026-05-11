@@ -38,14 +38,14 @@ MANUAL_GAMES = [
     ("2019-10-04", "Cardinal Ritter", 46, "St. Mary's South Side", 20),
     ("2019-10-11", "Cardinal Ritter", 54, "St. Francis Borgia", 8),
 ]
-
+ 
 # ---------------------------------------------------------------------------
 # EXCLUDED GAMES (games to remove from rankings)
 # ---------------------------------------------------------------------------
 # Add any games you want to exclude from the ratings engine here.
 # Format: ("YYYY-MM-DD", "Team 1 Name", "Team 2 Name")
 # Team order does not matter — both directions are checked.
-
+ 
 EXCLUDED_GAMES = [
     ("2019-08-30", "Bishop DuBourg with Hancock", "Jefferson (Festus)"),
     ("2019-08-30", "Ladue Horton Watkins", "Ritenour"),
@@ -306,6 +306,28 @@ def deduplicate_games(all_games):
     return unique_games
  
  
+def exclude_games(all_games, excluded):
+    """
+    Remove specific games from the dataset before ratings are calculated.
+    Matching is done by date and both team names (order-independent).
+    Games are still saved to the scoreboard CSV — they are only excluded
+    from the ratings engine.
+    """
+    excluded_keys = {
+        (date_str, frozenset([t1, t2]))
+        for date_str, t1, t2 in excluded
+    }
+ 
+    filtered = [
+        g for g in all_games
+        if (g[0], frozenset([g[1], g[3]])) not in excluded_keys
+    ]
+ 
+    removed = len(all_games) - len(filtered)
+    print(f"  Excluded {removed} game(s) from ratings.")
+    return filtered
+ 
+ 
 def report_missing_teams(all_games, team_to_class):
     """
     After scraping is complete, compare every team in classifications.json
@@ -515,7 +537,6 @@ def save_class_jsons(off_rating, def_rating, ovr_rating, league_avg,
         ))
  
  
- 
 # ---------------------------------------------------------------------------
 # CSV RANKINGS OUTPUT
 # ---------------------------------------------------------------------------
@@ -620,6 +641,10 @@ if __name__ == "__main__":
  
     print("\nDeduplicating games...")
     all_games = deduplicate_games(all_games)
+ 
+    if EXCLUDED_GAMES:
+        print(f"\nExcluding {len(EXCLUDED_GAMES)} game(s) from ratings...")
+        all_games = exclude_games(all_games, EXCLUDED_GAMES)
  
     print("\nChecking for missing teams...")
     report_missing_teams(all_games, team_to_class)

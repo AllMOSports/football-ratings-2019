@@ -75,7 +75,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-08-30,Parkway North,0,Marquette,27
 2019-08-30,Chillicothe,20,Marshall,7
 2019-08-30,Blair Oaks,23,Maryville,14
-2019-08-30,Penney,40,Maysville with Winston,20
 2019-08-30,Marshfield,31,McDonald County,14
 2019-08-30,Southern Boone,20,Mexico,0
 2019-08-30,Princeton with Mercer,0,Mid-Buchanan,35
@@ -103,6 +102,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-08-30,Charleston,48,Portageville,8
 2019-08-30,Park Hill South,0,Raymore-Peculiar,35
 2019-08-30,Fort Osage,0,Raytown South,6
+2019-08-30,Ladue Horton Watkins,13,Ritenour,0
 2019-08-30,Rockhurst,16,Rock Bridge,14
 2019-08-30,Glendale,24,Rolla,32
 2019-08-30,Troy Buchanan,28,Roosevelt,24
@@ -224,7 +224,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-06,Milan,52,Mark Twain,20
 2019-09-06,Warrensburg,44,Marshall,6
 2019-09-06,Monett,49,Marshfield,20
-2019-09-06,Mid-Buchanan,42,Maysville with Winston,0
 2019-09-06,DeSoto with Kingston,14,Mehlville,35
 2019-09-06,California,6,Mexico,48
 2019-09-06,Brookfield,14,Monroe City,30
@@ -377,7 +376,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-13,East Newton,22,McDonald County,25
 2019-09-13,Marshall,33,Mexico,19
 2019-09-13,Lathrop,49,Mid-Buchanan,0
-2019-09-13,Maysville with Winston,7,Milan,39
 2019-09-13,Strafford,16,Miller,35
 2019-09-13,Slater,48,Missouri Military Academy,0
 2019-09-13,Lafayette County,21,Moberly,14
@@ -532,7 +530,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-20,Bolivar,59,Marshall,3
 2019-09-20,Springfield Catholic,38,Marshfield,28
 2019-09-20,St. Pius X (Kansas City),6,Maryville,62
-2019-09-20,Gallatin,23,Maysville with Winston,14
 2019-09-20,Hollister,20,McDonald County,6
 2019-09-20,North Platte,6,Mid-Buchanan,53
 2019-09-20,Diamond,13,Miller,50
@@ -734,7 +731,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-09-27,Christian Brothers College,45,SLUH,14
 2019-09-27,Smith-Cotton,0,Smithville,48
 2019-09-27,Bowling Green,20,South Callaway,10
-2019-09-27,Maysville with Winston,21,South Harrison,26
 2019-09-27,Clark County,38,South Shelby,0
 2019-09-27,Hallsville,33,Southern Boone,21
 2019-09-27,Reeds Spring,28,Springfield Catholic,15
@@ -866,7 +862,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-04,Smithville,0,Platte County,15
 2019-10-04,Oak Grove,42,Pleasant Hill,7
 2019-10-04,Greenfield,54,Pleasant Hope,24
-2019-10-04,Maysville with Winston,49,Polo,0
 2019-10-04,Central (Park Hills),38,Potosi,15
 2019-10-04,Princeton with Mercer,19,Putnam County,4
 2019-10-04,Grain Valley,7,Raytown,33
@@ -1002,7 +997,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-11,Salisbury,12,Marceline,47
 2019-10-11,Pattonville,20,Marquette,38
 2019-10-11,Reeds Spring,7,Marshfield,32
-2019-10-11,Princeton with Mercer,27,Maysville with Winston,18
 2019-10-11,Lockwood with Golden City,28,Miller,34
 2019-10-11,Hannibal,31,Moberly,17
 2019-10-11,East Newton,0,Monett,47
@@ -1173,7 +1167,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-18,Winnetonka,14,Platte County,20
 2019-10-18,North County,6,Potosi,14
 2019-10-18,Gallatin,20,Princeton with Mercer,14
-2019-10-18,Maysville with Winston,7,Putnam County,28
 2019-10-18,Knob Noster,7,Richmond,50
 2019-10-18,Rockwood Summit,63,Ritenour,20
 2019-10-18,Christian Brothers College,14,Rockhurst,31
@@ -1302,7 +1295,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-10-25,Kirksville,26,Marshall,21
 2019-10-25,Logan-Rogersville,7,Marshfield,47
 2019-10-25,Lafayette (St. Joseph),6,Maryville,47
-2019-10-25,Trenton,42,Maysville with Winston,29
 2019-10-25,Oakville,0,Mehlville,51
 2019-10-25,Lawson,6,Mid-Buchanan,28
 2019-10-25,Parkway North,24,Miller Career Academy,6
@@ -1392,7 +1384,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,Marionville,14,Miller,20
 2019-11-01,Polo,8,Mid-Buchanan,55
 2019-11-01,East Buchanan,52,North Platte,28
-2019-11-01,Maysville with Winston,21,Penney,35
 2019-11-01,West Platte,6,Plattsburg,20
 2019-11-01,Schuyler County,6,Scotland County,44
 2019-11-01,Putnam County,10,Princeton with Mercer,7
@@ -1412,6 +1403,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,Louisiana,0,Brentwood,41
 2019-11-01,Westran,7,South Callaway,55
 2019-11-01,Mark Twain,20,South Shelby,28
+2019-11-01,Lincoln,13,Pleasant Hope,0
 2019-11-01,Herculaneum,8,Scott City,49
 2019-11-01,Kelly,18,Central (New Madrid County),48
 2019-11-01,East Prairie,20,Caruthersville,67
@@ -1440,6 +1432,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-11-01,Macon,42,Bowling Green,34
 2019-11-01,Clopton with Elsberry,36,Monroe City,44
 2019-11-01,Highland,12,Palmyra,44
+2019-11-01,Duchesne,13,Cardinal Ritter,0
 2019-11-01,Doniphan,0,Kennett,56
 2019-11-01,Perryville,14,Potosi,20
 2019-11-01,Dexter,0,Central (Park Hills),20
@@ -1695,9 +1688,3 @@ Date,Home Team,Home Score,Away Team,Away Score
 2019-12-07,Lincoln,27,Valle Catholic,30
 2019-12-07,Cassville,28,Odessa,49
 2019-12-07,Carthage,27,Jackson,21
-2019-09-07,Cardinal Ritter,27,Lutheran North,13
-2019-09-13,Cardinal Ritter,53,St. Dominic,14
-2019-09-21,Cardinal Ritter,48,Helias Catholic,14
-2019-09-27,Cardinal Ritter,70,Father Tolton,14
-2019-10-04,Cardinal Ritter,46,St. Mary's South Side,20
-2019-10-11,Cardinal Ritter,54,St. Francis Borgia,8

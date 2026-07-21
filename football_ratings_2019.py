@@ -37,11 +37,18 @@ MOV_CAP               = 28    # max points of "error" any single game can contri
 # Team names must match exactly the names in classifications.json.
  
 MANUAL_GAMES = [
-    # NOTE: These are manually-added 2011 games that don't appear on the
-    # MSHSAA scoreboard. The list has been cleared for 2019 since none of
-    # the 2011 entries apply to this season. Re-populate with any 2019
-    # games missing from the scraped scoreboard, in the same format:
-    # ("YYYY-MM-DD", "Team 1 Name", score1, "Team 2 Name", score2)
+    # Added from 2019_Missing_Games.xlsx (games missing from MSHSAA scoreboard).
+    # TODO: the spreadsheet had no date column -- replace "2019-XX-XX" below
+    # with each game's actual date once you have it. Dates don't affect the
+    # rating math (calculate_ratings() ignores them entirely), but they do
+    # feed the scoreboard CSV and the dedup key, so they should be corrected
+    # before treating football_scoreboard_2019.csv as authoritative.
+    ("2019-09-07", "Cardinal Ritter", 27, "Lutheran North", 13),
+    ("2019-09-13", "Cardinal Ritter", 53, "St. Dominic", 14),
+    ("2019-09-21", "Cardinal Ritter", 48, "Helias Catholic", 14),
+    ("2019-09-27", "Cardinal Ritter", 70, "Father Tolton", 14),
+    ("2019-10-04", "Cardinal Ritter", 46, "St. Mary's South Side", 20),
+    ("2019-10-11", "Cardinal Ritter", 54, "St. Francis Borgia", 8),
 ]
  
 HEADERS = {

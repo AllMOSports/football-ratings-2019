@@ -49,6 +49,10 @@ MANUAL_GAMES = [
     ("2019-09-27", "Cardinal Ritter", 70, "Father Tolton", 14),
     ("2019-10-04", "Cardinal Ritter", 46, "St. Mary's South Side", 20),
     ("2019-10-11", "Cardinal Ritter", 54, "St. Francis Borgia", 8),
+    ("2019-08-01", "Affton", 31, "Jennings", 20),
+    ("2019-08-01", "Jennings", 50, "Normandy Collaborative", 6),
+    ("2019-08-01", "Jennings", 30, "University City", 0),
+    ("2019-08-01", "Veritas Christian Academy", 27, "Jennings", 26),
 ]
  
 HEADERS = {
